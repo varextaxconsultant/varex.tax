@@ -265,7 +265,7 @@ padding: 17px 0px;
     padding: 8px 74px;
 }
 .h22{
-    padding:  1vw 10vh;
+    padding:  1vw 6vh;
 }
 .about{
     display: flex;
@@ -409,6 +409,7 @@ width: 33.33%;
 }
 .sabout{
 padding: 1vw;
+    text-align: justify;
 }
 .sumserve{
     justify-content: center;
