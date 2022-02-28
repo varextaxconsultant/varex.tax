@@ -238,7 +238,7 @@ a {
 }
 
 .center{
-    text-align: center;
+    text-align: justify;
 }
 .ourservices2{
 height: 100%;
@@ -274,10 +274,16 @@ padding: 17px 0px;
     background-repeat: no-repeat;
     background-size: cover;
 }
-.abouthead{
+/* .abouthead{
     font-size: 3vw;
     text-align: center;
     font-weight: 100;
+} */
+.abouthead {
+    font-size: 2rem;
+    /* text-align: center; */
+    font-weight: 100;
+    padding: 1vw;
 }
 .about
 headbold{
