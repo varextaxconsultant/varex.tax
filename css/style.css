@@ -409,6 +409,7 @@ width: 33.33%;
 }
 .sabout{
 padding: 1vw;
+    text-align: justify;
 }
 .sumserve{
     justify-content: center;
