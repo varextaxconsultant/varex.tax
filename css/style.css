@@ -1,6 +1,9 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Gideon+Roman&family=Shizuru&family=Source+Sans+Pro:wght@200;400&display=swap');
 
+.cen2{
+    text-align: center;
+}
 /* this is navbar */
 * {
     transition: 0.1s ease-in-out;
